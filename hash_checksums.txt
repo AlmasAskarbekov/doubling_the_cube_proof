@@ -1,0 +1,13 @@
+  Τΰιλ: arch.7z
+CRC-32: 331ee6e7
+   MD4: fdb88e265603b40f35ad5e78d5b661d8
+   MD5: 3c14a753ce45bfd39f047371188761d3
+ SHA-1: aad5c897d5ecd6dddfab2f85ba974ff9072a667f
+
+Proof for the Doubling the cube problem.
+
+SOLVED.
+
+Almas Askarbekov
+
+03.19.2018
